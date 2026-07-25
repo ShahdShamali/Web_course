@@ -1,0 +1,60 @@
+.programming{
+    color: blueviolet;
+    text-align: center;
+}
+.body{
+    color: rgb(0, 0, 0);
+}
+
+span{color: aqua;}
+h1{
+    text-align: left;
+    background-color: rgb(34, 32, 32);
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+h2{text-align: center;
+    color: yellow;
+    background-color: rgb(192, 44, 68);
+    font-family: monospace;
+    font-style: italic;
+}
+h3{
+    text-align: right;
+    color: red;
+    background-color: rgb(67, 218, 67);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    text-decoration: underline;
+}
+.one{
+   
+    color: rgb(0, 0, 0);
+    border-color: rgb(224, 26, 59);
+    background-color: pink;
+    border-radius: 50%;
+    border-width: 2px;
+    width: 100px;
+    text-align: center;
+    font-weight: bold;
+    border-style: groove;
+}
+.two{
+    color: white;
+    background-color: #590ba1;
+    border-radius: 50%;
+    border-style: hidden;
+    width: 20px;
+    text-align: center;
+    size: 40px;
+}
+.three{
+    color: white;
+    background-color: rgb(74, 233, 74);
+    text-align: center;
+    width: 150px;
+    border-color: rgb(66, 57, 57);
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    border-width: 3px;
+}
